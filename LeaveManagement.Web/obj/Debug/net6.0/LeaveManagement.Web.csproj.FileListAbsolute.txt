@@ -279,3 +279,5 @@
 /home/mtonon/Web Dev/ASP.Net/LeaveManagementNet6/LeaveManagement.Web/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
 /home/mtonon/Web Dev/ASP.Net/LeaveManagementNet6/LeaveManagement.Web/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /home/mtonon/Web Dev/ASP.Net/LeaveManagementNet6/LeaveManagement.Web/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/mtonon/Web Dev/ASP.Net/LeaveManagementNet6/LeaveManagement.Web/bin/Debug/net6.0/AutoMapper.dll
+/home/mtonon/Web Dev/ASP.Net/LeaveManagementNet6/LeaveManagement.Web/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
