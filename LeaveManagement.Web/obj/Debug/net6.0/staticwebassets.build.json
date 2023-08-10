@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Z0WxngZVZiU0lhVSafJuB6+S3iO8EyqK+u6yn6KqAGY=",
+  "Hash": "PcS/yoxwbTqWd0TZHtzMXiZoPagCbel2M+Cdt1Gwrmc=",
   "Source": "LeaveManagement.Web",
   "BasePath": "_content/LeaveManagement.Web",
   "Mode": "Default",
@@ -2089,6 +2089,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Identity": "/home/mtonon/Web Dev/ASP.Net/LeaveManagementNet6/LeaveManagement.Web/wwwroot/lib/sweetalert/sweetalert.min.js",
+      "SourceId": "LeaveManagement.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/mtonon/Web Dev/ASP.Net/LeaveManagementNet6/LeaveManagement.Web/wwwroot/",
+      "BasePath": "_content/LeaveManagement.Web",
+      "RelativePath": "lib/sweetalert/sweetalert.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/lib/sweetalert/sweetalert.min.js"
     }
   ]
 }
