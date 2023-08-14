@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "fm5rMLJiKyCcwnAQ0IHRAhRmRoBKsBBvMn45epOtSWkL6aN/GEZjT8J7Plf+jUZ+MaAnM/5WJjHgQfpOYIJ0wg==",
+  "dgSpecHash": "hwlp2vyreyV/uL1sokD0zzdjiinCzGb1RW6zZtD5YrHON90DHWdtWEH6Swys7rKdCDk4Xy68sdL2cUW8vuxmUg==",
   "success": true,
   "projectFilePath": "/home/mtonon/Web Dev/ASP.Net/LeaveManagementNet6/LeaveManagement.Web/LeaveManagement.Web.csproj",
   "expectedPackageFiles": [
     "/home/mtonon/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/mtonon/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/home/mtonon/.nuget/packages/fontawesome/4.7.0/fontawesome.4.7.0.nupkg.sha512",
     "/home/mtonon/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/home/mtonon/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/mtonon/.nuget/packages/humanizer.core.af/2.14.1/humanizer.core.af.2.14.1.nupkg.sha512",
